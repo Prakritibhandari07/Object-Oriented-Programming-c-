@@ -1,3 +1,5 @@
+//Program to find simple interest
+
 #include<iostream>
 using namespace std;
 float simpleInterest(float principal,float rate,int time)

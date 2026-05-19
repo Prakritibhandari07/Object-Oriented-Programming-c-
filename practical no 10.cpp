@@ -1,3 +1,5 @@
+//program to find product of two numbers.
+
 #include<iostream>
 using namespace std;
 int product(int a,int b)

@@ -1,4 +1,4 @@
-//Program to find student detail.
+//Program to find student detail..
 #include<iostream>
 #include<limits>
 using namespace std;

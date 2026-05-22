@@ -1,3 +1,4 @@
+//Program to store employee data.
 #include<iostream>
 using namespace std;
 class Employee

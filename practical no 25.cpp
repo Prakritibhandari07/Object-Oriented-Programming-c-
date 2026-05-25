@@ -1,3 +1,5 @@
+//Program to calculate the total distance travelled.
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//program to find area and volume of cube.
+
 #include <iostream>
 using namespace std;
 

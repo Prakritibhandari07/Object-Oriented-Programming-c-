@@ -1,3 +1,4 @@
+//Program to find the total money spent.
 #include <iostream>
 using namespace std;
 

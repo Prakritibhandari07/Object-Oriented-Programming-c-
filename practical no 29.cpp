@@ -1,3 +1,5 @@
+//Program to find area of traingle and area of rectangle.
+
 #include <iostream>
 using namespace std;
 

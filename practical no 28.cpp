@@ -1,3 +1,5 @@
+#Program to find area and volume of room.
+
 #include <iostream>
 using namespace std;
 
@@ -33,9 +35,9 @@ public:
 
     // Utility to display details
     void display() const {
-        cout << "Room (L×B×H): " << length
-             << " × " << breadth
-             << " × " << height << "\n";
+        cout << "Room (LÃ—BÃ—H): " << length
+             << " Ã— " << breadth
+             << " Ã— " << height << "\n";
         cout << "Area: " << getArea() << "\n";
         cout << "Volume: " << getVolume() << "\n";
     }

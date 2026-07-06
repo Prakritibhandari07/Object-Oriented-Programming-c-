@@ -1,4 +1,5 @@
 //Proram to find power of number.
+
 #include <iostream>
 using namespace std;
 double power(double m, int n = 2);

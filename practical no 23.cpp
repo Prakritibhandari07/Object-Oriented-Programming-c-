@@ -1,4 +1,5 @@
 //Program to find average distance.
+
 #include <iostream>
 using namespace std;
 

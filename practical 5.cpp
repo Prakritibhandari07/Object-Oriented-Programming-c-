@@ -1,5 +1,4 @@
 //Program to find the prime numbers between 300 and 500.
-
 #include<iostream>
 using namespace std;
 int isPrime(int num)

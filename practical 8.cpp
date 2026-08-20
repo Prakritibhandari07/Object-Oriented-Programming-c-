@@ -1,4 +1,5 @@
 //program to find cube of a number.
+
 #include<iostream>
 using namespace std;
 inline int cube(int num)

@@ -1,4 +1,5 @@
 //Program to find area of triangle.
+
 #include<iostream>
 using namespace std;
 void area(double base,double height)

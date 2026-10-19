@@ -1,5 +1,4 @@
 //Program to find larger distance.
-
 #include<iostream>
 using namespace std;
 class Distance
